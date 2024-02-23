@@ -1,0 +1,27 @@
+* {
+	color: white;
+	background-color: grey;
+	font-family: "tahoma", sans-serif;
+}
+
+ul a,
+ul li,
+ul li em,
+ul li strong {
+	background-color: purple;
+}
+
+h1 {
+	color: purple;
+}
+
+ol a,
+ol li,
+ol li em,
+ol li strong {
+	background-color: blue;
+}
+
+img {
+	text-align: center;
+}
