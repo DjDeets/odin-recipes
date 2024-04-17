@@ -24,5 +24,6 @@ ol li strong {
 */
 
 img {
-	text-align: center;
+	margin: auto;
+	display: block;
 }
